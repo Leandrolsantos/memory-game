@@ -10,8 +10,7 @@ Deploy: (EM BREVE)
 
 ## Sobre
 
-É um jogo da memória com o tem do game The Legend of Zelda. Escolhi este tema por ser fã desse jogo, porém vai ser possível alterar para qualquer outro tema, pois a estrutura vai ser criada com base nesta ideia de poder customizar para qualquer tema.
-
+É um jogo da memória com o tem do game The Legend of Zelda. Escolhi este tema por ser fã desse jogo, porém vai ser possível alterar para qualquer outro tema, pois a estrutura vai ser criada com base nesta ideia.
 ### Objetivo
 
 Aprimorar meus conhecimentos de Javascript.
