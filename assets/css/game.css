@@ -4,7 +4,7 @@
     gap: 15px;
     width: 100%;
     max-width: 800px;
-    margin: 100px auto;
+    margin: 0 auto;
 }
 
 .card {
@@ -28,7 +28,6 @@
 }
 
 .front {
-    background-image: url(/assets/img/totk.jpg);
     transform: rotateY(180deg);
 }
 
