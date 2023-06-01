@@ -19,8 +19,11 @@
 }
 
 .login__header h1 {
-    color: #333;
-    font-size: 2.2rem;
+    color: #000000;
+    font-size: 2.5rem;
+    -webkit-text-stroke-width: 0.1px;
+    -webkit-text-stroke-color: white;
+    text-shadow: 3px 3px 5px black;
 }
 
 .login__input {

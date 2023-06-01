@@ -1,6 +1,6 @@
  const grid = document.querySelector('.grid');
  const spanPlayer = document.querySelector('.player');
-
+ const timer = document.querySelector('.timer');
 
  const characters = [
     'awake',
@@ -29,7 +29,8 @@
   const disabledCards = document.querySelectorAll('.disabled-card');
 
     if (disabledCards.length === 20) {
-      alert('Parabéns, você venceu !!')
+      clearInterval(this.loop);
+      alert(`Parabéns, ${spanPlayer.innerHTML}! Seu tempo foi: ${timer.innerHTML}`);
   }
  }
 
@@ -56,7 +57,7 @@
       firstCard = '';
       secondCard = '';
 
-    }, 600)
+    }, 400)
 
   }
 
@@ -98,19 +99,26 @@
 }
 
 const loadGame = () => {
-  const duplicateCharacters = [ ...characters, ...characters ];
-  const shuffleArray = duplicateCharacters.sort( () => Math.random() -0.5 );
+ const duplicateCharacters = [ ...characters, ...characters ];
+ const shuffleArray = duplicateCharacters.sort( () => Math.random() -0.5 );
  
-  shuffleArray.forEach((character) => {
+ shuffleArray.forEach((character) => {
   const card = createCard(character);
   grid.appendChild(card);
  });     
 }
 
-window.onload = () => {
-  
- const playerName = localStorage.getItem('player');
+ const startTimer = () => {
 
+  this.loop = setInterval(() => {
+  const currentTime = +timer.innerHTML;
+  timer.innerHTML = currentTime + 1;
+  }, 1000);
+ }
+
+window.onload = () => {
+ startTimer();
+ const playerName = localStorage.getItem('player');
  spanPlayer.innerHTML = playerName;
 
  loadGame();
