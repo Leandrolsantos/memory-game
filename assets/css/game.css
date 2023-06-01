@@ -24,7 +24,7 @@ header {
     padding: 25px;
     margin: 0 0 30px;
     border-radius: 6px;
-    background: linear-gradient( rgba(0, 100, 0, 0.796), rgba(255, 217, 0, 0.884),rgb(5, 83, 192));
+    background: linear-gradient( rgba(0, 100, 0, 0.796), rgba(255, 217, 0, 0.884));
     box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.751);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
 }

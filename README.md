@@ -1,10 +1,8 @@
 # Memory Game - The Legend of Zelda
 
-![](./)
+![](./assets/img/tela%201.png)
 
-![](./)
-
-![](./)
+![](./assets/img/tela2g.gif)
 
 Deploy: (EM BREVE)
 
