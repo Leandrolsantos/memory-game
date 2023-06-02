@@ -4,22 +4,22 @@
 
 ![](./assets/img/tela2g.gif)
 
-Deploy: (EM BREVE)
+Deploy: https://memory-game-inky-chi.vercel.app/
 
 ## Sobre
 
-É um jogo da memória com o tema do game The Legend of Zelda. Escolhi este tema por ser fã desse jogo, porém vai ser possível alterar para qualquer outro tema, bastando apenas mudar as imagens nos arquivos.
+É um jogo da memória com o tema do game The Legend of Zelda. Escolhi este tema por ser fã desse jogo. É possível alterar para qualquer outro tema, bastando apenas mudar as imagens nos arquivos.
 ### Objetivo
 
-Aprimorar meus conhecimentos de Javascript.
+Praticar meus estudos de Javascript e CSS/Grid.
 
 ### Desafio
 
-Compreender a lógica de programação usando a linguagem de Javascript.
+Desenvolver meu primeiro jogo usando HTML, CSS e Javascript.
 
 ### Conclusão
 
-(EM BREVE)
+Projeto finalizado com sucesso. Gostei muito de desenvolver este projeto, foi meu primeiro jogo que crio usando a linguagem pura de MTML/CSS/JS. Planejo futuramente em criar mais jogos, porém usando REACT ou outra biblioteca ou framework.
 
 ### Ferramentas Utilizadas
 
