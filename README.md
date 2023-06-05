@@ -15,11 +15,11 @@ Praticar a linguagem de Javascript e CSS, com foco no Grid.
 
 ### Desafio
 
-Desenvolver meu primeiro jogo usando HTML, CSS e Javascript. Foi muito construtívo o aprendizado de Js, mas principalmente o de Grid. Consegui compreender muito mais como manusear e posicionar as imagens na tela.
+Desenvolver meu primeiro jogo usando HTML, CSS e Javascript. Foi muito construtívo o aprendizado de JS, mas principalmente o conhecimento de Grid. Consegui compreender muito mais como manusear e posicionar as imagens na tela.
 
 ### Conclusão
 
-Projeto finalizado com sucesso. Gostei muito de desenvolver este projeto, foi meu primeiro jogo que crio usando a linguagem pura de MTML/CSS/JS. Planejo futuramente em criar mais jogos, porém usando REACT ou outra biblioteca ou framework.
+Projeto finalizado com sucesso. Gostei muito de desenvolver este projeto, foi meu primeiro jogo que crio usando a linguagem pura de HTML/CSS/JS. Planejo futuramente em criar mais jogos, porém usando REACT, outra biblioteca ou framework.
 
 ### Ferramentas Utilizadas
 
