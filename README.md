@@ -2,6 +2,8 @@
 
 ![](./assets/img/tela%201.png)
 
+![](./assets/img/tela%202.png)
+
 ![](./assets/img/tela2g.gif)
 
 Deploy: https://memory-game-inky-chi.vercel.app/
