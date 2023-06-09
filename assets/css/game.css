@@ -2,13 +2,13 @@ main {
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-image: url('/assets/img/wallpaperg.jpg');
+    background-image: url('/assets/img/wallpaperg.gif');
     background-size: cover;
     background-color: aqua;
-    min-height: 100vh;
+    height: 100vh;
     align-items: center;
     justify-content: center;
-    padding: 20px 20px 50px;
+    padding: 145px 460px 150px;
 }
 
 header {
@@ -21,8 +21,8 @@ header {
     -webkit-text-stroke-color: black;
     width: 100%;
     max-width: 800px;
-    padding: 25px;
-    margin: 0 0 30px;
+    padding: 15px;
+    margin: 5px 0 30px;
     border-radius: 6px;
     background: linear-gradient( rgba(0, 100, 0, 0.796), rgba(255, 217, 0, 0.884));
     box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.751);
