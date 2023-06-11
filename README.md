@@ -13,7 +13,7 @@ Deploy: https://memory-game-inky-chi.vercel.app/
 É um jogo da memória com o tema do game The Legend of Zelda. Escolhi este tema por ser fã desse jogo. É possível alterar para qualquer outro tema, bastando apenas mudar as imagens nos arquivos. Você pode escrever o seu nome que ele fica salvo no local storage e aparece no canto superior esquerdo, além de possuir um contador de tempo de conclusão de partida e no final mostra o seu tempo. Adicionei uma interatividade maior na tela de login e alterei a imagem de fundo por uma mais dinâmica, diferente da versão anterior.
 ### Objetivos
 
-Praticar a linguagem de Javascript e o Grid, pois essas são duas metas de evolução que quero obter.
+Praticar a linguagem de Javascript e o Grid, pois essas são duas metas de evolução que quero obter. Compreender melhor como criar elementos de HTML usando o Javascript.
 
 ### Desafio
 
